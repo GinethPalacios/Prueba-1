@@ -1,0 +1,40 @@
+body 
+{
+    background-color: rgb(255, 255, 255);
+}
+p 
+{
+    font-size: 30px;
+}
+h1 
+{
+color: rgb(24, 25, 124);;;
+}
+.Trapecio 
+{
+    width:200px; height:200px;
+}
+.Eneagono 
+{
+    width:200px; height:200px;
+}
+.Octagono 
+{
+    width:200px; height:200px;
+}
+.boton
+{
+    background-color: rgb(199, 149, 245);
+}
+img.Eneagono 
+{
+    vertical-align: middle;
+}
+img.Octagono 
+{
+    vertical-align: middle;
+}
+img.Trapecio 
+{
+    vertical-align: middle;
+}
